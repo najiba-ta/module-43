@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 2500,
+      "category": "Electronics",
+      "stock": 15,
+      "image": "https://i.ibb.co/3s1QK3G/headphone.png"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 3500,
+      "category": "Electronics",
+      "stock": 10,
+      "image": "https://i.ibb.co/0jqHpnp/smartwatch.png"
+    },
+    {
+      "id": 3,
+      "name": "Men's T-Shirt",
+      "price": 800,
+      "category": "Fashion",
+      "stock": 25,
+      "image": "https://i.ibb.co/7y7W2gL/tshirt.png"
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 1500,
+      "category": "Accessories",
+      "stock": 12,
+      "image": "https://i.ibb.co/2d5QYyR/backpack.png"
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "price": 1800,
+      "category": "Electronics",
+      "stock": 8,
+      "image": "https://i.ibb.co/6n1kz7J/speaker.png"
+    }
+  ]
+}
