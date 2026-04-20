@@ -31,6 +31,6 @@ const PostsPage = async () => {
         </div>
     );
 };    
-// emniiii vallage nhhmm,,,
+// emniiii valla
 
 export default PostsPage;
